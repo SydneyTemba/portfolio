@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    background-color: grey;
+    padding: 10px;
+}
+.header h2{
+    color: magenta;
+    font-size: 40px;
+}
+.header h3{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.header a{
+    color: black;
+    text-decoration: none;
+}
